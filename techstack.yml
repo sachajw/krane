@@ -2,7 +2,7 @@ repo_name: sachajw/krane
 report_id: 98737609550e8c11b994bdb98393b690
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:39:17+00:00'
+timestamp: '2024-02-29T18:48:37+00:00'
 requested_by: dependabot[bot]
 provider: github
 branch: master
@@ -129,7 +129,7 @@ tools:
   last_updated_by: Marcin Ciszak
   last_updated_on: 2021-09-30 17:13:27.000000000 Z
 - name: Bundler
-  description: 'A consistent environment for tracking and installing  gems and versions '
+  description: A consistent environment for tracking and installing  gems and versions
   website_url: http://bundler.io
   open_source: false
   hosted_saas: false
